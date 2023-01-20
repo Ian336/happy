@@ -24,7 +24,7 @@ JavaScript实现的带音效的烟花特效
 
 ### 版本一
 
-此版本为视频（ <a href="https://www.bilibili.com/video/BV1Z3411D7fQ">【2023新年烟花网页HTML代码】</a> ）中的烟花代码。
+此版本为视频（ <a href="https://www.bilibili.com/video/BV1Z3411D7fQ" target="_blank">【2023新年烟花网页HTML代码】</a> ）中的烟花代码。
 1.  支持单行显示，烟花效果单一。
 
 ### 版本二
