@@ -1,9 +1,12 @@
-# JS烟花特效
+# 2023烟花代码
+
+先祝大家新年快乐！祝你2023年身体健康，万事胜意，学业有成，步步高升，新年新气象,事业勇敢闯,亲朋在身旁,人气旺旺旺。
+代码的视频讲解链接：【2023新年烟花网页HTML代码】 https://www.bilibili.com/video/BV1Z3411D7fQ
 
 ## 介绍
 想必有不少人喜欢看烟花吧！绚丽的烟花在黑空中迸发出完美的粒子光芒，并最终无限暗淡至陨落。烟花虽美但易逝，自然是不能经常看到烟花的，那么如果编写一段代码，通过JavaScript实现的带音效的烟花特效。
 
-> 技术: 基于Html5，JavaScript，Ajax,Css  
+> 技术: 基于Html5，JavaScript，Ajax，Css  
 > 
 > 环境: Hbuilder，谷歌浏览器
 
@@ -24,7 +27,7 @@ JavaScript实现的带音效的烟花特效
 
 ### 版本一
 
-此版本为视频（ <a href="https://www.bilibili.com/video/BV1Z3411D7fQ">【2023新年烟花网页HTML代码】</a> ）中的烟花代码。
+此版本为视频（ <a href="https://www.bilibili.com/video/BV1Z3411D7fQ" target="_blank">【2023新年烟花网页HTML代码】</a> ）中的烟花代码。
 1.  支持单行显示，烟花效果单一。
 
 ### 版本二
